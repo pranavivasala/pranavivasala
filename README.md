@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey, I'm Pranavi 👩‍💻  
 
-<!--
-**pranavivasala/pranavivasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building cool and useful web apps that solve real problems.  
+Currently working on AI-based projects and exploring full-stack development.
 
-Here are some ideas to get you started:
+🔍 What I'm into:
+- Creating user-focused web applications  
+- AI + Web integration  
+- Data visualization & insights  
+- Clean UI & practical solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Projects I've built:
+- Skinlytic (AI skincare analyzer)  
+- AI Learning Path Generator  
+
+🛠 Tech I use:
+HTML • CSS • JavaScript • React  
+Node.js • Express  
+MongoDB • SQLite  
+Python • Power BI  
+
+📊 Also skilled in:
+- Data analysis & visualization 
+- Working with APIs and automation
+
+📈 Always learning, building, and improving.
 -->
