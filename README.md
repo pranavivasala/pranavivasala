@@ -1,12 +1,14 @@
 # Hey there! 👋 I'm Pranavi
 
 👩‍💻 **About Me**
+
 I'm a passionate Web Developer and AI enthusiast, focused on building real-world applications that are both user-friendly and impactful.
 I enjoy working on AI-powered projects, data-driven solutions, and continuously improving my problem-solving skills through DSA.
 
 ---
 
 🔧 **What I'm Working On**
+
 🧠 **AI Learning Path Generator** – Building a platform that creates personalized learning paths using AI based on user goals, helping learners stay structured and consistent.
 
 🌸 **Skinlytic** – An AI-based skincare analysis app that provides personalized recommendations for better skincare decisions.
