@@ -33,7 +33,7 @@ Pandas, NumPy, Jupyter Notebook, Power BI, Microsoft Excel
 ---
 
 📈 **Currently Learning**
-
+* Currently working on Data Analysis with real-world data.
 * Advanced Data Structures & Algorithms
 * Full-Stack Development
 * AI Integration in Web Applications
