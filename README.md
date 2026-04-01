@@ -2,8 +2,7 @@
 
 👩‍💻 **About Me**
 
-I'm a passionate Web Developer and AI enthusiast, focused on building real-world applications that are both user-friendly and impactful.
-I enjoy working on AI-powered projects, data-driven solutions, and continuously improving my problem-solving skills through DSA.
+I’m a passionate Web Developer and AI enthusiast, focused on building real-world applications that are both user-friendly and impactful. I have a strong interest in data analysis and enjoy working with data to extract meaningful insights and drive informed decisions. I enjoy developing AI-powered projects, creating data-driven solutions, and continuously improving my problem-solving skills through Data Structures and Algorithms (DSA).
 
 ---
 
